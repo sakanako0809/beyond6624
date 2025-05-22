@@ -19,7 +19,7 @@
 
 .elementor-11 .elementor-element.elementor-element-bf2c51a:not(.elementor-motion-effects-element-type-background),
 .elementor-11 .elementor-element.elementor-element-bf2c51a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("../../../images/bg.jpg");
+    background-image: url("../../../images/bg.webp");
     background-position: center left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -825,7 +825,7 @@
 
 .elementor-11 .elementor-element.elementor-element-b63851c:not(.elementor-motion-effects-element-type-background),
 .elementor-11 .elementor-element.elementor-element-b63851c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("../../../images/bg_1.jpg");
+    background-image: url("../../../images/bg_1.webp");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 110% auto;
@@ -1057,7 +1057,7 @@
 .elementor-11 .elementor-element.elementor-element-8f889df:not(.elementor-motion-effects-element-type-background),
 .elementor-11 .elementor-element.elementor-element-8f889df>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: var( --e-global-color-primary);
-    background-image: url("../../../images/bg.jpg");
+    background-image: url("../../../images/bg.webp");
     background-position: center;
     background-size: cover;
 }
@@ -1895,7 +1895,7 @@ body.rtl .elementor-11 .elementor-element.elementor-element-8851689.elementor-te
 
 .elementor-11 .elementor-element.elementor-element-2f8e3a5:not(.elementor-motion-effects-element-type-background),
 .elementor-11 .elementor-element.elementor-element-2f8e3a5>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("../../../images/bg_1.jpg");
+    background-image: url("../../../images/bg_1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -2097,7 +2097,7 @@ body.rtl .elementor-11 .elementor-element.elementor-element-8851689.elementor-te
 
 .elementor-11 .elementor-element.elementor-element-980f25c:not(.elementor-motion-effects-element-type-background),
 .elementor-11 .elementor-element.elementor-element-980f25c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("../../../images/bg_4.jpg");
+    background-image: url("../../../images/bg_4.webp");
     background-position: center 27%;
     background-size: cover;
 }
@@ -3148,7 +3148,7 @@ body.elementor-page-11>.elementor-motion-effects-container>.elementor-motion-eff
 @media(max-width:767px) {
     .elementor-11 .elementor-element.elementor-element-bf2c51a:not(.elementor-motion-effects-element-type-background),
     .elementor-11 .elementor-element.elementor-element-bf2c51a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-        background-image: url("../../../images/bg.jpg");
+        background-image: url("../../../images/bg.webp");
         background-position: bottom center;
         background-size: cover;
     }
