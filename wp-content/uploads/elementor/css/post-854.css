@@ -1,0 +1,258 @@
+.elementor-854 .elementor-element.elementor-element-3919f54 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0em;
+    --padding-bottom: 1em;
+    --padding-left: 0em;
+    --padding-right: 0em;
+}
+
+.elementor-854 .elementor-element.elementor-element-e94d9c9 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-854 .elementor-element.elementor-element-4ffc8db {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-top: 2em;
+    --padding-bottom: 2em;
+    --padding-left: 2em;
+    --padding-right: 2em;
+}
+
+.elementor-854 .elementor-element.elementor-element-1f03477 .elementor-heading-title {
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 3em;
+    font-weight: 700;
+    line-height: 1.5em;
+}
+
+.elementor-854 .elementor-element.elementor-element-d49a23c {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 0px 2px 0px;
+    --border-top-width: 2px;
+    --border-right-width: 0px;
+    --border-bottom-width: 2px;
+    --border-left-width: 0px;
+    --padding-top: 2em;
+    --padding-bottom: 2em;
+    --padding-left: 2em;
+    --padding-right: 2em;
+}
+
+.elementor-854 .elementor-element.elementor-element-d49a23c,
+.elementor-854 .elementor-element.elementor-element-d49a23c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-854 .elementor-element.elementor-element-18e04c2.elementor-element {
+    --align-self: stretch;
+}
+
+.elementor-854 .elementor-element.elementor-element-18e04c2 {
+    color: #474747;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.83em;
+    font-weight: 400;
+}
+
+.elementor-854 .elementor-element.elementor-element-90abba1 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 0px 2px 2px;
+    --border-top-width: 0px;
+    --border-right-width: 0px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    --border-radius: 0px 0px 0px 0px;
+    --padding-top: 1em;
+    --padding-bottom: 1em;
+    --padding-left: 1em;
+    --padding-right: 1em;
+}
+
+.elementor-854 .elementor-element.elementor-element-90abba1,
+.elementor-854 .elementor-element.elementor-element-90abba1::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-854 .elementor-element.elementor-element-517b5b5 img {
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.elementor-854 .elementor-element.elementor-element-35cced3 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 0px 2px 2px;
+    --border-top-width: 0px;
+    --border-right-width: 0px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    --border-radius: 0px 0px 0px 0px;
+    --padding-top: 1em;
+    --padding-bottom: 1em;
+    --padding-left: 0.5em;
+    --padding-right: 0em;
+}
+
+.elementor-854 .elementor-element.elementor-element-35cced3,
+.elementor-854 .elementor-element.elementor-element-35cced3::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-854 .elementor-element.elementor-element-4f90165 {
+    text-align: left;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.8em;
+}
+
+#elementor-popup-modal-854 .dialog-widget-content {
+    animation-duration: 1.2s;
+    background-image: url("https://art365.tw/wp-content/uploads/2024/01/popup-bg.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+#elementor-popup-modal-854 {
+    background-color: rgba(0, 0, 0, .8);
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+}
+
+#elementor-popup-modal-854 .dialog-message {
+    width: 60vw;
+    height: 80vh;
+    align-items: flex-start;
+}
+
+#elementor-popup-modal-854 .dialog-close-button {
+    display: flex;
+    top: 0.6em;
+    background-color: var( --e-global-color-primary);
+    font-size: 40px;
+}
+
+body:not(.rtl) #elementor-popup-modal-854 .dialog-close-button {
+    right: 5em;
+}
+
+body.rtl #elementor-popup-modal-854 .dialog-close-button {
+    left: 5em;
+}
+
+#elementor-popup-modal-854 .dialog-close-button i {
+    color: var( --e-global-color-secondary);
+}
+
+#elementor-popup-modal-854 .dialog-close-button svg {
+    fill: var( --e-global-color-secondary);
+}
+
+@media(max-width:1024px) {
+    .elementor-854 .elementor-element.elementor-element-3919f54 {
+        --padding-top: 0em;
+        --padding-bottom: 1em;
+        --padding-left: 0em;
+        --padding-right: 0em;
+    }
+    .elementor-854 .elementor-element.elementor-element-1f03477 .elementor-heading-title {
+        font-size: 2em;
+    }
+    .elementor-854 .elementor-element.elementor-element-d49a23c {
+        --padding-top: 0.6em;
+        --padding-bottom: 0.6em;
+        --padding-left: 0.6em;
+        --padding-right: 0.6em;
+    }
+    .elementor-854 .elementor-element.elementor-element-18e04c2>.elementor-widget-container {
+        padding: 2em 2em 2em 2em;
+    }
+    .elementor-854 .elementor-element.elementor-element-517b5b5 img {
+        height: 100%;
+        object-position: center center;
+    }
+    #elementor-popup-modal-854 .dialog-message {
+        width: 70vw;
+    }
+    #elementor-popup-modal-854 .dialog-close-button {
+        top: 65px;
+    }
+    body:not(.rtl) #elementor-popup-modal-854 .dialog-close-button {
+        right: 55px;
+    }
+    body.rtl #elementor-popup-modal-854 .dialog-close-button {
+        left: 55px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-854 .elementor-element.elementor-element-1f03477 .elementor-heading-title {
+        font-size: 1.7em;
+        line-height: 1.4em;
+    }
+    #elementor-popup-modal-854 .dialog-message {
+        width: 90vw;
+    }
+    #elementor-popup-modal-854 .dialog-close-button {
+        top: 35px;
+    }
+    body:not(.rtl) #elementor-popup-modal-854 .dialog-close-button {
+        right: 20px;
+    }
+    body.rtl #elementor-popup-modal-854 .dialog-close-button {
+        left: 20px;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-854 .elementor-element.elementor-element-e94d9c9 {
+        --width: 100%;
+    }
+    .elementor-854 .elementor-element.elementor-element-90abba1 {
+        --width: 50%;
+    }
+    .elementor-854 .elementor-element.elementor-element-35cced3 {
+        --width: 50%;
+    }
+}

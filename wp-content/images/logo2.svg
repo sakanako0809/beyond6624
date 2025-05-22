@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 100 100">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: url(#_未命名的渐变_2);
+      }
+
+      .st2 {
+        fill: url(#_未命名的渐变_5);
+      }
+
+      .st3 {
+        fill: url(#_未命名的渐变_4);
+      }
+
+      .st4 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st5 {
+        fill: url(#_未命名的渐变_6);
+      }
+
+      .st6 {
+        fill: url(#_未命名的渐变_7);
+      }
+
+      .st7 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st8 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st9 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st10 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st11 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st12 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="st0" d="M12,69.9c-1.5-3.4-.8-8.6-.8-20.8,0-26-3.4-20.1,19.1-33.2,1.1-.6,14.1-8.1,15.1-8.7l-6.8,30.8,7.8,2c1.5.6,2.2,1.4-.5,3.3l-33.9,26.5h0Z"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_7" data-name="未命名的渐变 7" x1="52.6" y1="107.1" x2="-7.4" y2="-.6" gradientTransform="translate(0 102) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ec1c24"/>
+      <stop offset="0" stop-color="#ed2821"/>
+      <stop offset=".3" stop-color="#ef481c"/>
+      <stop offset=".5" stop-color="#f47c13"/>
+      <stop offset=".8" stop-color="#fac407"/>
+      <stop offset="1" stop-color="#fff100"/>
+    </linearGradient>
+    <clipPath id="clippath-1">
+      <path class="st0" d="M12,69.9c-1.5-3.4-.8-8.6-.8-20.8,0-26-3.4-20.1,19.1-33.2,1.1-.6,14.1-8.1,15.1-8.7C23.2,49,12,69.9,12,69.9Z"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="51.3" y1="107.8" x2="-8.6" y2="0" gradientTransform="translate(0 102) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ec1c24"/>
+      <stop offset=".2" stop-color="#f15919"/>
+      <stop offset=".5" stop-color="#f7990e"/>
+      <stop offset=".7" stop-color="#fbc906"/>
+      <stop offset=".9" stop-color="#fee601"/>
+      <stop offset="1" stop-color="#fff100"/>
+    </linearGradient>
+    <clipPath id="clippath-2">
+      <path class="st0" d="M50.3,6.4c3.7.4,7.8,3.6,18.4,9.7,22.6,13,19.1,7.1,19.1,33.2v17.4l-23.2-21.3-5.7,5.8c-1.2,1-2.3,1.2-2.6-2.1l-6-42.7h0Z"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" x1="98.9" y1="26.3" x2="38.4" y2="110.7" gradientTransform="translate(0 102) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#300c50"/>
+      <stop offset=".1" stop-color="#360d57"/>
+      <stop offset=".3" stop-color="#49136c"/>
+      <stop offset=".5" stop-color="#681b8e"/>
+      <stop offset=".8" stop-color="#9327be"/>
+      <stop offset="1" stop-color="#c735f7"/>
+    </linearGradient>
+    <clipPath id="clippath-3">
+      <path class="st0" d="M50.3,6.4c3.7.4,7.8,3.6,18.4,9.7,22.6,13,19.1,7.1,19.1,33.2v17.4s-12.5-20.1-37.5-60.3h0Z"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_4" data-name="未命名的渐变 4" x1="98.9" y1="26.3" x2="38.4" y2="110.7" gradientTransform="translate(0 102) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#300c50"/>
+      <stop offset="0" stop-color="#3e1060"/>
+      <stop offset=".3" stop-color="#6e1d95"/>
+      <stop offset=".5" stop-color="#9527bf"/>
+      <stop offset=".7" stop-color="#b02ede"/>
+      <stop offset=".9" stop-color="#c133f0"/>
+      <stop offset="1" stop-color="#c735f7"/>
+    </linearGradient>
+    <clipPath id="clippath-4">
+      <path class="st0" d="M86.1,71.3c-2.2,3-7.1,5-17.6,11.1-22.6,13-15.7,13-38.3,0-1.1-.6-14.1-8.1-15.1-8.7l30-9.5-2.1-7.8c-.2-1.6,0-2.6,3.1-1.2l39.9,16.1h0Z"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_5" data-name="未命名的渐变 5" x1="-.8" y1="27.4" x2="99.4" y2="27.4" gradientTransform="translate(0 102) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0f"/>
+      <stop offset=".3" stop-color="#fb2ef0"/>
+      <stop offset="1" stop-color="#f3a2cb"/>
+      <stop offset="1" stop-color="#f3aac9"/>
+    </linearGradient>
+    <clipPath id="clippath-5">
+      <path class="st0" d="M86.1,71.3c-2.2,3-7.1,5-17.6,11.1-22.6,13-15.7,13-38.3,0-1.1-.6-14.1-8.1-15.1-8.7l70.9-2.4Z"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_6" data-name="未命名的渐变 6" x1="-.8" y1="18.7" x2="90.4" y2="18.7" gradientTransform="translate(0 102) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0f"/>
+      <stop offset=".3" stop-color="#fa3aec"/>
+      <stop offset=".5" stop-color="#f76add"/>
+      <stop offset=".7" stop-color="#f58dd2"/>
+      <stop offset=".9" stop-color="#f3a2cb"/>
+      <stop offset="1" stop-color="#f3aac9"/>
+    </linearGradient>
+  </defs>
+  <g class="st12">
+    <rect class="st6" x="7.8" y="7.2" width="40.8" height="62.6"/>
+  </g>
+  <g class="st7">
+    <rect class="st1" x="7.8" y="7.2" width="37.6" height="62.6"/>
+  </g>
+  <g class="st10">
+    <rect class="st4" x="50.3" y="6.4" width="40.9" height="60.3"/>
+  </g>
+  <g class="st8">
+    <rect class="st3" x="50.3" y="6.4" width="40.9" height="60.3"/>
+  </g>
+  <g class="st9">
+    <rect class="st2" x="15.2" y="53.8" width="70.9" height="41.5"/>
+  </g>
+  <g class="st11">
+    <rect class="st5" x="15.2" y="71.3" width="70.9" height="24.1"/>
+  </g>
+</svg>

@@ -1,0 +1,803 @@
+.elementor-2550 .elementor-element.elementor-element-8b2c7c3 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --padding-top: 0em;
+    --padding-bottom: 0em;
+    --padding-left: 0em;
+    --padding-right: 0em;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6a8299a {
+    --display: flex;
+    --justify-content: space-between;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 2px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 2px;
+    --border-left-width: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6a8299a,
+.elementor-2550 .elementor-element.elementor-element-6a8299a::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-2550 .elementor-element.elementor-element-0ac391d {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-top: 1.5em;
+    --padding-bottom: 1.5em;
+    --padding-left: 1.5em;
+    --padding-right: 1.5em;
+}
+
+.elementor-2550 .elementor-element.elementor-element-b1e95fa .elementor-heading-title {
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 3em;
+    font-weight: 700;
+    line-height: 1.5em;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8f93a86 {
+    --display: flex;
+    --align-items: stretch;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --gap: 20px 0px;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 0px 2px 0px;
+    --border-top-width: 2px;
+    --border-right-width: 0px;
+    --border-bottom-width: 2px;
+    --border-left-width: 0px;
+    --padding-top: 3.5em;
+    --padding-bottom: 3.5em;
+    --padding-left: 3.5em;
+    --padding-right: 3.5em;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8f93a86,
+.elementor-2550 .elementor-element.elementor-element-8f93a86::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8f93a86.e-con {
+    --align-self: stretch;
+}
+
+.elementor-2550 .elementor-element.elementor-element-7463995 {
+    text-align: justify;
+}
+
+.elementor-2550 .elementor-element.elementor-element-7463995 .elementor-heading-title {
+    color: var( --e-global-color-2d6bb65);
+    font-family: "Noto Sans TC", Sans-serif;
+    line-height: 2.3rem;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6b40b4a>.elementor-widget-container {
+    padding: 1em 1em 1em 1em;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6b40b4a.elementor-element {
+    --align-self: stretch;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6b40b4a {
+    color: #474747;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.83em;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-497da5f.elementor-element {
+    --align-self: stretch;
+}
+
+.elementor-2550 .elementor-element.elementor-element-497da5f {
+    color: #474747;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.83em;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-repeater-item-d53b904 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d3191c506e2.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-repeater-item-d53b904 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-repeater-item-6c1a877 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d31982473a0.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-repeater-item-6c1a877 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-repeater-item-f9d7170 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d3199b232d7.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-repeater-item-f9d7170 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-repeater-item-fed3cf0 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-repeater-item-fed3cf0 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-repeater-item-517e3f5 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d316ddbf84b.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-repeater-item-517e3f5 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .swiper-slide {
+    transition-duration: calc(5000ms*1.2);
+    height: 600px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .swiper-slide-contents {
+    max-width: 100%;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .swiper-slide-inner {
+    text-align: left;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .swiper-slide-inner .elementor-slide-heading:not(:last-child) {
+    margin-bottom: 9px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-slide-heading {
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a33987b .elementor-slide-description {
+    color: var( --e-global-color-secondary);
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 15px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-bbf5ad8.elementor-element {
+    --align-self: stretch;
+}
+
+.elementor-2550 .elementor-element.elementor-element-bbf5ad8 {
+    color: #474747;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.83em;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .elementor-repeater-item-d53b904 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d30c2cd8a81.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .elementor-repeater-item-d53b904 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .elementor-repeater-item-16d4d31 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d30c63a8478.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .elementor-repeater-item-16d4d31 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .elementor-repeater-item-f03a58c .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d30c8ba35bd.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .elementor-repeater-item-f03a58c .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .swiper-slide {
+    transition-duration: calc(5000ms*1.2);
+    height: 400px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .swiper-slide-contents {
+    max-width: 100%;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .swiper-slide-inner {
+    text-align: left;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .swiper-slide-inner .elementor-slide-heading:not(:last-child) {
+    margin-bottom: 9px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .elementor-slide-heading {
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .swiper-slide-inner .elementor-slide-description:not(:last-child) {
+    margin-bottom: 0px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2a7c1cb .elementor-slide-description {
+    color: var( --e-global-color-secondary);
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 15px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-afca880.elementor-element {
+    --align-self: stretch;
+}
+
+.elementor-2550 .elementor-element.elementor-element-afca880 {
+    color: #474747;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.83em;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-17f573e {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --align-items: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-2550 .elementor-element.elementor-element-3812d28 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --border-radius: 0px 0px 0px 0px;
+    --padding-top: 0.8em;
+    --padding-bottom: 0.8em;
+    --padding-left: 0.8em;
+    --padding-right: 0.8em;
+}
+
+.elementor-2550 .elementor-element.elementor-element-7382feb {
+    text-align: left;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.8em;
+}
+
+.elementor-2550 .elementor-element.elementor-element-268d8cd {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 0px 0px 2px;
+    --border-top-width: 0px;
+    --border-right-width: 0px;
+    --border-bottom-width: 0px;
+    --border-left-width: 2px;
+    --border-radius: 0px 0px 0px 0px;
+    --padding-top: 0.8em;
+    --padding-bottom: 0.8em;
+    --padding-left: 0.8em;
+    --padding-right: 0.8em;
+}
+
+.elementor-2550 .elementor-element.elementor-element-268d8cd,
+.elementor-2550 .elementor-element.elementor-element-268d8cd::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-2550 .elementor-element.elementor-element-fba41f5 {
+    text-align: left;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.8em;
+}
+
+.elementor-2550 .elementor-element.elementor-element-567af71 {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 0px 2px 1px;
+    --border-top-width: 0px;
+    --border-right-width: 0px;
+    --border-bottom-width: 2px;
+    --border-left-width: 1px;
+    --padding-top: 1em;
+    --padding-bottom: 1em;
+    --padding-left: 1em;
+    --padding-right: 1em;
+}
+
+.elementor-2550 .elementor-element.elementor-element-567af71,
+.elementor-2550 .elementor-element.elementor-element-567af71::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-2550 .elementor-element.elementor-element-9b6730a {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-2550 .elementor-element.elementor-element-762eb33 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-2550 .elementor-element.elementor-element-a4d5234 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-2550 .elementor-element.elementor-element-2170d1e .elementor-heading-title {
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 3em;
+    font-weight: 700;
+    line-height: 1.3em;
+}
+
+.elementor-2550 .elementor-element.elementor-element-13f2d3a {
+    --display: flex;
+    --align-items: stretch;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --gap: 20px 0px;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 0px 2px 0px;
+    --border-top-width: 2px;
+    --border-right-width: 0px;
+    --border-bottom-width: 2px;
+    --border-left-width: 0px;
+    --padding-top: 3.5em;
+    --padding-bottom: 3.5em;
+    --padding-left: 3.5em;
+    --padding-right: 3.5em;
+}
+
+.elementor-2550 .elementor-element.elementor-element-13f2d3a,
+.elementor-2550 .elementor-element.elementor-element-13f2d3a::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-2550 .elementor-element.elementor-element-13f2d3a.e-con {
+    --align-self: stretch;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6d1c908 {
+    text-align: justify;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6d1c908 .elementor-heading-title {
+    color: var( --e-global-color-2d6bb65);
+    font-family: "Noto Sans TC", Sans-serif;
+    line-height: 2.3rem;
+}
+
+.elementor-2550 .elementor-element.elementor-element-88c2c3e>.elementor-widget-container {
+    padding: 1em 1em 1em 1em;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-88c2c3e.elementor-element {
+    --align-self: stretch;
+}
+
+.elementor-2550 .elementor-element.elementor-element-88c2c3e {
+    color: #474747;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.83em;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-fa00b23.elementor-element {
+    --align-self: stretch;
+}
+
+.elementor-2550 .elementor-element.elementor-element-fa00b23 {
+    color: #474747;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.83em;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-repeater-item-d53b904 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d3191c506e2.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-repeater-item-d53b904 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-repeater-item-6c1a877 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d31982473a0.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-repeater-item-6c1a877 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-repeater-item-f9d7170 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d3199b232d7.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-repeater-item-f9d7170 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-repeater-item-fed3cf0 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-repeater-item-fed3cf0 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-repeater-item-517e3f5 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d316ddbf84b.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-repeater-item-517e3f5 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .swiper-slide {
+    transition-duration: calc(5000ms*1.2);
+    height: 600px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .swiper-slide-contents {
+    max-width: 100%;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .swiper-slide-inner {
+    text-align: left;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .swiper-slide-inner .elementor-slide-heading:not(:last-child) {
+    margin-bottom: 9px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-slide-heading {
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-slide-description {
+    color: var( --e-global-color-secondary);
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 15px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-3a4c9e8.elementor-element {
+    --align-self: stretch;
+}
+
+.elementor-2550 .elementor-element.elementor-element-3a4c9e8 {
+    color: #474747;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.83em;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .elementor-repeater-item-d53b904 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d30c2cd8a81.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .elementor-repeater-item-d53b904 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .elementor-repeater-item-16d4d31 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d30c63a8478.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .elementor-repeater-item-16d4d31 .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .elementor-repeater-item-f03a58c .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://art365.tw/wp-content/uploads/2024/02/65d30c8ba35bd.webp);
+    background-size: cover;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .elementor-repeater-item-f03a58c .elementor-background-overlay {
+    background-color: #00000038;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .swiper-slide {
+    transition-duration: calc(5000ms*1.2);
+    height: 600px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .swiper-slide-contents {
+    max-width: 100%;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .swiper-slide-inner {
+    text-align: left;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .swiper-slide-inner .elementor-slide-heading:not(:last-child) {
+    margin-bottom: 9px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .elementor-slide-heading {
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-6dce25a .elementor-slide-description {
+    color: var( --e-global-color-secondary);
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 15px;
+}
+
+.elementor-2550 .elementor-element.elementor-element-08165eb.elementor-element {
+    --align-self: stretch;
+}
+
+.elementor-2550 .elementor-element.elementor-element-08165eb {
+    color: #474747;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.83em;
+    font-weight: 400;
+}
+
+.elementor-2550 .elementor-element.elementor-element-ae40ff8 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-2550 .elementor-element.elementor-element-094f69b {
+    text-align: left;
+    font-family: "Noto Sans TC", Sans-serif;
+    font-size: 0.8em;
+}
+
+#elementor-popup-modal-2550 .dialog-widget-content {
+    animation-duration: 1.2s;
+    background-image: url("https://art365.tw/wp-content/uploads/2024/01/popup-bg.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+#elementor-popup-modal-2550 {
+    background-color: rgba(0, 0, 0, .8);
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+}
+
+#elementor-popup-modal-2550 .dialog-message {
+    width: 70vw;
+    height: 80vh;
+    align-items: flex-start;
+}
+
+#elementor-popup-modal-2550 .dialog-close-button {
+    display: flex;
+}
+
+@media(max-width:1024px) {
+    .elementor-2550 .elementor-element.elementor-element-8b2c7c3 {
+        --border-radius: 0px 1px 0px 0px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-b1e95fa .elementor-heading-title {
+        font-size: 2em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-8f93a86 {
+        border-width: 2px 0px 2px 0px;
+        --border-top-width: 2px;
+        --border-right-width: 0px;
+        --border-bottom-width: 2px;
+        --border-left-width: 0px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-6b40b4a>.elementor-widget-container {
+        padding: 2em 2em 2em 2em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-497da5f>.elementor-widget-container {
+        padding: 2em 2em 2em 2em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-bbf5ad8>.elementor-widget-container {
+        padding: 2em 2em 2em 2em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-afca880>.elementor-widget-container {
+        padding: 2em 2em 2em 2em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-268d8cd {
+        border-width: 0px 0px 0px 2px;
+        --border-top-width: 0px;
+        --border-right-width: 0px;
+        --border-bottom-width: 0px;
+        --border-left-width: 2px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-567af71 {
+        border-width: 0px 0px 0px 1px;
+        --border-top-width: 0px;
+        --border-right-width: 0px;
+        --border-bottom-width: 0px;
+        --border-left-width: 1px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-a4d5234 {
+        --padding-top: 1.5em;
+        --padding-bottom: 1.5em;
+        --padding-left: 1.5em;
+        --padding-right: 1.5em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-2170d1e .elementor-heading-title {
+        font-size: 2.5em;
+        line-height: 1.5em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-13f2d3a {
+        border-width: 2px 0px 2px 0px;
+        --border-top-width: 2px;
+        --border-right-width: 0px;
+        --border-bottom-width: 2px;
+        --border-left-width: 0px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-88c2c3e>.elementor-widget-container {
+        padding: 2em 2em 2em 2em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-fa00b23>.elementor-widget-container {
+        padding: 2em 2em 2em 2em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-3a4c9e8>.elementor-widget-container {
+        padding: 2em 2em 2em 2em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-08165eb>.elementor-widget-container {
+        padding: 2em 2em 2em 2em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-ae40ff8 {
+        --padding-top: 1.8em;
+        --padding-bottom: 1.8em;
+        --padding-left: 1.8em;
+        --padding-right: 1.8em;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-2550 .elementor-element.elementor-element-a4d5234 {
+        --padding-top: 1em;
+        --padding-bottom: 1em;
+        --padding-left: 1em;
+        --padding-right: 1em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-2170d1e .elementor-heading-title {
+        font-size: 1.5em;
+        line-height: 1.5em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-13f2d3a {
+        --padding-top: 1.8em;
+        --padding-bottom: 1.8em;
+        --padding-left: 1.8em;
+        --padding-right: 1.8em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-6d1c908 .elementor-heading-title {
+        font-size: 16px;
+        line-height: 1.6rem;
+    }
+    .elementor-2550 .elementor-element.elementor-element-88c2c3e>.elementor-widget-container {
+        padding: 1em 1em 1em 1em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-fa00b23>.elementor-widget-container {
+        padding: 0em 0em 0em 0em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-8772d1e .swiper-slide {
+        height: 248px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-8772d1e .swiper-slide-inner {
+        padding: 10px 10px 10px 10px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-slide-heading {
+        font-size: 14px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-8772d1e .elementor-slide-description {
+        font-size: 14px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-3a4c9e8>.elementor-widget-container {
+        padding: 0em 0em 0em 0em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-6dce25a .swiper-slide {
+        height: 188px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-6dce25a .swiper-slide-inner {
+        padding: 10px 10px 10px 10px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-6dce25a .elementor-slide-heading {
+        font-size: 14px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-6dce25a .elementor-slide-description {
+        font-size: 14px;
+    }
+    .elementor-2550 .elementor-element.elementor-element-08165eb>.elementor-widget-container {
+        padding: 0em 0em 0em 0em;
+    }
+    .elementor-2550 .elementor-element.elementor-element-ae40ff8 {
+        --padding-top: 1em;
+        --padding-bottom: 0.5em;
+        --padding-left: 1.8em;
+        --padding-right: 1.8em;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-2550 .elementor-element.elementor-element-6a8299a {
+        --width: 65%;
+    }
+    .elementor-2550 .elementor-element.elementor-element-567af71 {
+        --width: 35%;
+    }
+}
